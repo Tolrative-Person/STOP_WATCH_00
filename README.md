@@ -1,2 +1,2 @@
-# PRODIGY_WD_02
+# STOP_WATCH_02
 Created a Stop Watch
